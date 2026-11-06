@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0007",
+  "description": "Wired straight into the Ink order flow. Inktrons #0007 is a Rare Quadwall Halo, a four-screen monitor wall with a trading console, finished in Neon Vault. Its screens stream GOOGL (Alphabet) with a price line riding over live volume bars alongside auction clock, depth bars, candle chart, worked by a rolling trackball. It comes with a satellite dish on top, a coin stack at its side and a floor plant in the corner. Set on a Neon Edge platform against a soft ink glow. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/7.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quadwall"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quadwall Halo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Floor Plant"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plain Glow"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}
