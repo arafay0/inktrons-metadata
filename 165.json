@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0165",
+  "description": "Tuned for tight spreads. Inktrons #0165 is a Rare Quotron Echo, a classic quote desk with a typing keyboard, finished in Ice Byte. Its screen streams META (Meta Platforms) with a climbing auction bid racing a countdown to SOLD, worked by a numeric keypad punching in orders. It comes with a radar on top, a trophy at its side and a filing cabinet in the corner. Set on a Solid platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/165.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Echo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Keypad"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ice Byte"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

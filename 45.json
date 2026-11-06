@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0045",
+  "description": "Built for the opening bell. Inktrons #0045 is an Uncommon Teller Bravo, a teller booth with a receipt printer, finished in Deep Ocean. Its screen streams NVDA (NVIDIA) with a climbing auction bid racing a countdown to SOLD, worked by a rolling trackball. It comes with an antenna on top, a cactus at its side and a water cooler in the corner. Set on a Fine Tiles platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/45.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Deep Ocean"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

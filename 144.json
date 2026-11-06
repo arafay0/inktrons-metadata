@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0144",
+  "description": "Always on, always bidding. Inktrons #0144 is a Rare Bigboard Alpha, a giant exchange board with a bidding kiosk, finished in Ice Byte. Its screen streams COIN (Coinbase) with a typing log of buy and sell orders, worked by two arcade bid/ask buttons that slam down. It comes with a beacon on top, a cactus at its side and a filing cabinet in the corner. Set on a Fine Tiles platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/144.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Alpha"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ice Byte"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

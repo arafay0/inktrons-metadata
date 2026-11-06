@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0111",
+  "description": "Wired straight into the Ink order flow. Inktrons #0111 is a Common Tickertape Prime, a quote printer spinning out paper tape, finished in Lilac Mint. Its screen streams CRCL (Circle) with a tiny sparkline of the session, worked by a rolling trackball. It comes with an antenna on top, a trophy at its side and a grandfather clock in the corner. Set on a Solid platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/111.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "CRCL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Tickertape"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Tickertape Prime"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Mini Spark"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Lilac Mint"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

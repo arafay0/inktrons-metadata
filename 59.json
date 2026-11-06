@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0059",
+  "description": "Built for the opening bell. Inktrons #0059 is a Legendary Rackline Prime, a server rack wired to a trading terminal, finished in Royal Ink. Its screen streams TSLA (Tesla) with a climbing auction bid racing a countdown to SOLD, worked by sliding faders and a push button. It comes with a crown on top, a trophy at its side and a speaker tower in the corner. Set on a Solid platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/59.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Prime"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Royal Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0097",
+  "description": "Booted on Ink and never logged off. Inktrons #0097 is a Common Booktower Prime, a tall order-book tower with a control console, finished in Sandstone. Its screen streams SPY (the S&P 500 ETF) with mirrored depth bars pulsing on both sides of the book, worked by a ringing trader phone. It comes with a satellite dish on top, an hourglass at its side and a filing cabinet in the corner. Set on a Solid platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/97.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Prime"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trader Phone"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

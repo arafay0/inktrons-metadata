@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0025",
+  "description": "Always on, always bidding. Inktrons #0025 is a Rare Quotron Comet, a classic quote desk with a typing keyboard, finished in Neon Vault. Its screen streams MSTR (Strategy) with a price line riding over live volume bars, worked by a trading joystick. It comes with a satellite dish on top, a potted plant at its side and a grandfather clock in the corner. Set on a Fine Tiles platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/25.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "MSTR"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Strategy"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Comet"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Potted Plant"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

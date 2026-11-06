@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0046",
+  "description": "Tuned for tight spreads. Inktrons #0046 is an Epic Quotron Rogue, a classic quote desk with a typing keyboard, finished in Vaporwave. Its screen streams AAPL (Apple) with a typing log of buy and sell orders, worked by a rolling trackball. It comes with a flag on top, a trophy at its side and a gold bars in the corner. Set on a Checker platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/46.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "AAPL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Rogue"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vaporwave"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

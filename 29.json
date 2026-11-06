@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0029",
+  "description": "Built for the opening bell. Inktrons #0029 is a Rare Fieldbook Quartz, a laptop station with a portrait depth monitor, finished in Ruby Night. Its screen streams NVDA (NVIDIA) with a price line riding over live volume bars, worked by a numeric keypad punching in orders. It comes with a beacon on top. Set on a Metal Grate platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/29.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Quartz"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Keypad"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ruby Night"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

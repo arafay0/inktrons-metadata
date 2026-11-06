@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0112",
+  "description": "Running hot through every session. Inktrons #0112 is an Uncommon Duplex Bravo, a twin-monitor trading desk with a running LED strip, finished in Amber Exchange. Its screens stream SPY (the S&P 500 ETF) with a typing log of buy and sell orders alongside depth bars, worked by a brass auction bell struck by a gavel. It comes with a water cooler in the corner. Set on a Neon Edge platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/112.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Duplex Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "2"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Exchange"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "None"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

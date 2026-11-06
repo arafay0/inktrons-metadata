@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0178",
+  "description": "Tuned for tight spreads. Inktrons #0178 is an Uncommon Pod Comet, a round trading pod with a ring of lights, finished in Vintage Brass. Its screen streams META (Meta Platforms) with a live bid/ask quote with a running price chart, worked by a brass auction bell struck by a gavel. It comes with an ink drop on top and a speaker tower in the corner. Set on a Solid platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/178.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Comet"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Quote Feed"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vintage Brass"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

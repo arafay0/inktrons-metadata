@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0078",
+  "description": "Always on, always bidding. Inktrons #0078 is a Common Pod Pulse, a round trading pod with a ring of lights, finished in Classic Ink. Its screen streams CRCL (Circle) with a flickering heatmap of order flow, worked by a hazard-striped big button. It comes with an ink drop on top, an hourglass at its side and a gold bars in the corner. Set on a Solid platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/78.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "CRCL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Pulse"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Classic Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0060",
+  "description": "Built for the opening bell. Inktrons #0060 is an Epic Teller Rogue, a teller booth with a receipt printer, finished in Aurora. Its screen streams COIN (Coinbase) with a flickering heatmap of order flow, worked by two arcade bid/ask buttons that slam down. It comes with a siren on top, a paper stack at its side and a gold bars in the corner. Set on a Solid platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/60.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Rogue"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Paper Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

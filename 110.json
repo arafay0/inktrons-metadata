@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0110",
+  "description": "Keeping the book honest. Inktrons #0110 is an Uncommon Pod Volt, a round trading pod with a ring of lights, finished in Amber Exchange. Its screen streams SPY (the S&P 500 ETF) with a typing log of buy and sell orders, worked by a hazard-striped big button. It comes with a beacon on top, a potted plant at its side and a filing cabinet in the corner. Set on a Checker platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/110.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Volt"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Exchange"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Potted Plant"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

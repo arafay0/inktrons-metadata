@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0146",
+  "description": "Always on, always bidding. Inktrons #0146 is a Common Quotron Pulse, a classic quote desk with a typing keyboard, finished in Classic Ink. Its screen streams SPY (the S&P 500 ETF) with a typing log of buy and sell orders, worked by a brass auction bell struck by a gavel. It comes with a flag on top, a cactus at its side and a filing cabinet in the corner. Set on a Metal Grate platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/146.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Pulse"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Classic Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

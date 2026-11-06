@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0061",
+  "description": "Built for the opening bell. Inktrons #0061 is an Uncommon Quotron Halo, a classic quote desk with a typing keyboard, finished in Berry Pop. Its screen streams COIN (Coinbase) with a live bid/ask quote with a running price chart, worked by sliding faders and a push button. It comes with an ink drop on top, an hourglass at its side and a speaker tower in the corner. Set on a Metal Grate platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/61.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Halo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Quote Feed"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

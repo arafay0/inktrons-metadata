@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0082",
+  "description": "Wired straight into the Ink order flow. Inktrons #0082 is an Uncommon Bigboard Rogue, a giant exchange board with a bidding kiosk, finished in Amber Exchange. Its screen streams HOOD (Robinhood) with one-minute candles printing in real time, worked by a slot-style pull lever. It comes with an antenna on top, a desk lamp at its side and a grandfather clock in the corner. Set on a Solid platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/82.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Rogue"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Exchange"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Desk Lamp"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

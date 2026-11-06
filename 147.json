@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0147",
+  "description": "Printing quotes around the clock. Inktrons #0147 is a Rare Booktower Echo, a tall order-book tower with a control console, finished in Sunset Drive. Its screen streams TSLA (Tesla) with one-minute candles printing in real time, worked by sliding faders and a push button. It comes with a flag on top, a mini safe at its side and a floor plant in the corner. Set on a Neon Edge platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/147.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Echo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sunset Drive"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Mini Safe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Floor Plant"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

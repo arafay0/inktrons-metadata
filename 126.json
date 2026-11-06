@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0126",
+  "description": "Tuned for tight spreads. Inktrons #0126 is a Rare Rackline Titan, a server rack wired to a trading terminal, finished in Neon Vault. Its screen streams AAPL (Apple) with a flickering heatmap of order flow, worked by a ringing trader phone. It comes with an antenna on top, a cactus at its side and a floor plant in the corner. Set on a Solid platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/126.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "AAPL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Titan"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trader Phone"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Floor Plant"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

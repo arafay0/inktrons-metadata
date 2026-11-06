@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0001 (Genesis)",
+  "description": "Inktrons #0001 \"Genesis\" is one of only two gold 1/1 machines in the collection, and one of the only two Inktrons that earn rewards in XAU. Its machine exists nowhere else in the collection. The Ink Exchange, finished in Ink Gold: a full trading floor in miniature that runs the XAU (gold) book on a giant live board, strikes a brass auction bell on every fill, taps arcade bid/ask buttons and floats a spinning ink crystal overhead. It sits on a Glow Rim platform beside a gold bars and a trophy, set against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/1.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "XAU"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Ink Exchange"
+    },
+    {
+      "trait_type": "Model",
+      "value": "The Ink Exchange"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Big Board"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell + Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ink Gold"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Crystal"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "1/1 Gold"
+    },
+    {
+      "trait_type": "Rewards",
+      "value": "XAU"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0164",
+  "description": "Booted on Ink and never logged off. Inktrons #0164 is a Common Tickertape Comet, a quote printer spinning out paper tape, finished in Retro Quotron. Its screen streams SPY (the S&P 500 ETF) with a tiny sparkline of the session, worked by sliding faders and a push button. It comes with an ink drop on top, a desk lamp at its side and a paper bin in the corner. Set on a Glow Rim platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/164.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Tickertape"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Tickertape Comet"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Mini Spark"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Retro Quotron"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Desk Lamp"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Paper Bin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

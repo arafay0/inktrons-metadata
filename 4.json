@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0004",
+  "description": "Running hot through every session. Inktrons #0004 is a Common Pod Echo, a round trading pod with a ring of lights, finished in Sandstone. Its screen streams TSLA (Tesla) with a price line riding over live volume bars, worked by flip toggles and a spinning dial. It comes with an ink drop on top, a coffee mug at its side and a filing cabinet in the corner. Set on a Glow Rim platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/4.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Echo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0115",
+  "description": "Built for the opening bell. Inktrons #0115 is a Rare Pod Prime, a round trading pod with a ring of lights, finished in Ruby Night. Its screen streams COIN (Coinbase) with a price line riding over live volume bars, worked by a ringing trader phone. It comes with an ink drop on top, a coffee mug at its side and a server box in the corner. Set on a Neon Edge platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/115.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Prime"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trader Phone"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ruby Night"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

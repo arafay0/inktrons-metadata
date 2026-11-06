@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0048",
+  "description": "Always on, always bidding. Inktrons #0048 is an Uncommon Quadwall Bravo, a four-screen monitor wall with a trading console, finished in Berry Pop. Its screens stream NVDA (NVIDIA) with a flickering heatmap of order flow alongside line + volume, auction clock, depth bars, worked by a rolling trackball. It comes with a flag on top, a desk lamp at its side and a gold bars in the corner. Set on a Solid platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/48.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quadwall"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quadwall Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Desk Lamp"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

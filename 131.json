@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0131",
+  "description": "Always on, always bidding. Inktrons #0131 is an Uncommon Fieldbook Bravo, a laptop station with a portrait depth monitor, finished in Amber Exchange. Its screen streams NVDA (NVIDIA) with a typing log of buy and sell orders, worked by a brass auction bell struck by a gavel. It comes with a beacon on top, a paper stack at its side and a vault safe in the corner. Set on a Neon Edge platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/131.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Exchange"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Paper Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

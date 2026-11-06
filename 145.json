@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0145",
+  "description": "Tuned for tight spreads. Inktrons #0145 is a Common Rackline Vector, a server rack wired to a trading terminal, finished in Retro Quotron. Its screen streams COIN (Coinbase) with mirrored depth bars pulsing on both sides of the book, worked by a trading joystick. It comes with a satellite dish on top, a coin stack at its side and a water cooler in the corner. Set on a Metal Grate platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/145.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Vector"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Retro Quotron"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

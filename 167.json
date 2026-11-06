@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0167",
+  "description": "Printing quotes around the clock. Inktrons #0167 is a Common Tickertape Zenith, a quote printer spinning out paper tape, finished in Retro Quotron. Its screen streams TSLA (Tesla) with a tiny sparkline of the session, worked by a slot-style pull lever. It comes with a siren on top, an hourglass at its side and a grandfather clock in the corner. Set on a Metal Grate platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/167.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Tickertape"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Tickertape Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Mini Spark"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Retro Quotron"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

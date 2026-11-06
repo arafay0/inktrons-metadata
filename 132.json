@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0132",
+  "description": "Built for the opening bell. Inktrons #0132 is an Uncommon Quadwall Vector, a four-screen monitor wall with a trading console, finished in Vintage Brass. Its screens stream GOOGL (Alphabet) with a climbing auction bid racing a countdown to SOLD alongside candle chart, heatmap, line + volume, worked by sliding faders and a push button. It comes with a siren on top, a paper stack at its side and a speaker tower in the corner. Set on a Neon Edge platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/132.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quadwall"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quadwall Vector"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vintage Brass"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Paper Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

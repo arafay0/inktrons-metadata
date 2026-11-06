@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0042",
+  "description": "Built for the opening bell. Inktrons #0042 is a Common Fieldbook Alpha, a laptop station with a portrait depth monitor, finished in Slate Ink. Its screen streams META (Meta Platforms) with mirrored depth bars pulsing on both sides of the book, worked by a trading joystick. It comes with a beacon on top, an ink bottle at its side and a gold bars in the corner. Set on a Fine Tiles platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/42.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Alpha"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Slate Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0031",
+  "description": "Running hot through every session. Inktrons #0031 is an Uncommon Booktower Quartz, a tall order-book tower with a control console, finished in Berry Pop. Its screen streams CRCL (Circle) with a flickering heatmap of order flow, worked by a numeric keypad punching in orders. It comes with a siren on top and a server box in the corner. Set on a Neon Edge platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/31.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "CRCL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Quartz"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Keypad"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

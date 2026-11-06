@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0002 (Aurum)",
+  "description": "Inktrons #0002 \"Aurum\" is one of only two gold 1/1 machines in the collection, and one of the only two Inktrons that earn rewards in XAU. Its machine exists nowhere else in the collection. The Gold Press, finished in Gilded Ink: a minting press that stamps fresh XAU coins in a burst of gold, slides them onto a coin tray and tracks the live XAU order book on a tall depth ladder, all fired by a pull lever with an ink drop floating on top. It sits on a Neon Edge platform beside a vault safe and an ink bottle, set against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/2.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "XAU"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Gold Press"
+    },
+    {
+      "trait_type": "Model",
+      "value": "The Gold Press"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Ladder"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Gilded Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "1/1 Gold"
+    },
+    {
+      "trait_type": "Rewards",
+      "value": "XAU"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

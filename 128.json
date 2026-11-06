@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0128",
+  "description": "Keeping the book honest. Inktrons #0128 is a Common Bigboard Delta, a giant exchange board with a bidding kiosk, finished in Retro Quotron. Its screen streams SPY (the S&P 500 ETF) with a climbing auction bid racing a countdown to SOLD, worked by a slot-style pull lever. It comes with an ink drop on top, a globe at its side and a server box in the corner. Set on a Glow Rim platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/128.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Delta"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Retro Quotron"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Globe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

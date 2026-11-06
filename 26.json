@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0026",
+  "description": "Tuned for tight spreads. Inktrons #0026 is an Uncommon Pod Bravo, a round trading pod with a ring of lights, finished in Berry Pop. Its screen streams NVDA (NVIDIA) with a typing log of buy and sell orders, worked by two arcade bid/ask buttons that slam down. It comes with a beacon on top, a coin stack at its side and a filing cabinet in the corner. Set on a Checker platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/26.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

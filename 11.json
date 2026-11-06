@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0011",
+  "description": "Running hot through every session. Inktrons #0011 is a Common Bigboard Nova, a giant exchange board with a bidding kiosk, finished in Sandstone. Its screen streams NVDA (NVIDIA) with one-minute candles printing in real time, worked by flip toggles and a spinning dial. It comes with a beacon on top and a water cooler in the corner. Set on a Fine Tiles platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/11.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Nova"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0064",
+  "description": "Wired straight into the Ink order flow. Inktrons #0064 is a Common Quadwall Comet, a four-screen monitor wall with a trading console, finished in Midnight. Its screens stream SPY (the S&P 500 ETF) with a flickering heatmap of order flow alongside candle chart, line + volume, auction clock, worked by sliding faders and a push button. It comes with a filing cabinet in the corner. Set on a Glow Rim platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/64.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quadwall"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quadwall Comet"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "None"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

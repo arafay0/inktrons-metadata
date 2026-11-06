@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0005",
+  "description": "Built for the opening bell. Inktrons #0005 is an Uncommon Bigboard Ember, a giant exchange board with a bidding kiosk, finished in Amber Exchange. Its screen streams META (Meta Platforms) with a climbing auction bid racing a countdown to SOLD, worked by a hazard-striped big button. It comes with an ink drop on top, a trophy at its side and a speaker tower in the corner. Set on a Metal Grate platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/5.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Amber Exchange"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0030",
+  "description": "Running hot through every session. Inktrons #0030 is a Common Teller Onyx, a teller booth with a receipt printer, finished in Retro Quotron. Its screen streams AAPL (Apple) with a typing log of buy and sell orders, worked by a brass auction bell struck by a gavel. It comes with a beacon on top, an ink bottle at its side and a server box in the corner. Set on a Solid platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/30.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "AAPL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Onyx"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Retro Quotron"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

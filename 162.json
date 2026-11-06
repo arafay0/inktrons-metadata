@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0162",
+  "description": "Tuned for tight spreads. Inktrons #0162 is a Rare Teller Ember, a teller booth with a receipt printer, finished in Ice Byte. Its screen streams CRCL (Circle) with one-minute candles printing in real time, worked by a slot-style pull lever. It comes with a flag on top, a coin stack at its side and a gold bars in the corner. Set on a Fine Tiles platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/162.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "CRCL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ice Byte"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

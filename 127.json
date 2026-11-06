@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0127",
+  "description": "Wired straight into the Ink order flow. Inktrons #0127 is an Uncommon Duplex Ember, a twin-monitor trading desk with a running LED strip, finished in Vintage Brass. Its screens stream CRCL (Circle) with one-minute candles printing in real time alongside order log, worked by two arcade bid/ask buttons that slam down. It comes with a beacon on top, an hourglass at its side and a vault safe in the corner. Set on a Neon Edge platform against a soft ink glow. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/127.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "CRCL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Duplex Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "2"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vintage Brass"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plain Glow"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

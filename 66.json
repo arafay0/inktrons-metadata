@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0066",
+  "description": "Printing quotes around the clock. Inktrons #0066 is an Epic Bigboard Onyx, a giant exchange board with a bidding kiosk, finished in Vaporwave. Its screen streams TSLA (Tesla) with mirrored depth bars pulsing on both sides of the book, worked by a ringing trader phone. It comes with a flag on top, an ink bottle at its side and a gold bars in the corner. Set on a Neon Edge platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/66.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Onyx"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trader Phone"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vaporwave"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

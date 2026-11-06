@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0098",
+  "description": "Running hot through every session. Inktrons #0098 is an Epic Fieldbook Halo, a laptop station with a portrait depth monitor, finished in Aurora. Its screen streams AAPL (Apple) with a typing log of buy and sell orders, worked by a brass auction bell struck by a gavel. It comes with an hourglass at its side and a water cooler in the corner. Set on a Solid platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/98.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "AAPL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Halo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "None"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

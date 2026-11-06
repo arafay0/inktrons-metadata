@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0076",
+  "description": "Tuned for tight spreads. Inktrons #0076 is a Rare Bigboard Sable, a giant exchange board with a bidding kiosk, finished in Ice Byte. Its screen streams HOOD (Robinhood) with a giant exchange board with bid, ask and daily change, worked by a trading joystick. It comes with an ink drop on top. Set on a Checker platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/76.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Sable"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Big Board"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Ice Byte"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

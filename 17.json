@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0017",
+  "description": "Booted on Ink and never logged off. Inktrons #0017 is a Common Booktower Comet, a tall order-book tower with a control console, finished in Sandstone. Its screen streams GOOGL (Alphabet) with a price line riding over live volume bars, worked by a rolling trackball. It comes with a radar on top, a cactus at its side and a grandfather clock in the corner. Set on a Fine Tiles platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/17.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Comet"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

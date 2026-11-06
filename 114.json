@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0114",
+  "description": "Running hot through every session. Inktrons #0114 is an Uncommon Quotron Onyx, a classic quote desk with a typing keyboard, finished in Berry Pop. Its screen streams NVDA (NVIDIA) with a climbing auction bid racing a countdown to SOLD, worked by flip toggles and a spinning dial. It comes with a beacon on top, a globe at its side and a server box in the corner. Set on a Fine Tiles platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/114.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Onyx"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Globe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0129",
+  "description": "Printing quotes around the clock. Inktrons #0129 is a Common Pod Alpha, a round trading pod with a ring of lights, finished in Lilac Mint. Its screen streams GOOGL (Alphabet) with mirrored depth bars pulsing on both sides of the book, worked by a ringing trader phone. It comes with a siren on top, an ink bottle at its side and a filing cabinet in the corner. Set on a Fine Tiles platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/129.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Alpha"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trader Phone"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Lilac Mint"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Filing Cabinet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0077",
+  "description": "Always on, always bidding. Inktrons #0077 is a Legendary Quotron Zenith, a classic quote desk with a typing keyboard, finished in Holo Pearl. Its screen streams HOOD (Robinhood) with a flickering heatmap of order flow, worked by flip toggles and a spinning dial. It comes with a crown on top and a paper stack at its side. Set on a Glow Rim platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/77.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Holo Pearl"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Paper Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

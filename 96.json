@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0096",
+  "description": "Built for the opening bell. Inktrons #0096 is a Common Rackline Flux, a server rack wired to a trading terminal, finished in Slate Ink. Its screen streams GOOGL (Alphabet) with a price line riding over live volume bars, worked by flip toggles and a spinning dial. It comes with a beacon on top, a mini safe at its side and a water cooler in the corner. Set on a Neon Edge platform against a faint night grid. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/96.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Flux"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Slate Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Mini Safe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Water Cooler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Night Grid"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0177",
+  "description": "Wired straight into the Ink order flow. Inktrons #0177 is a Common Fieldbook Vector, a laptop station with a portrait depth monitor, finished in Midnight. Its screen streams COIN (Coinbase) with a typing log of buy and sell orders, worked by sliding faders and a push button. It comes with a siren on top, an ink bottle at its side and a paper bin in the corner. Set on a Glow Rim platform against a soft ink glow. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/177.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Vector"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Paper Bin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plain Glow"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

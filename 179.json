@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0179",
+  "description": "Keeping the book honest. Inktrons #0179 is an Uncommon Fieldbook Ember, a laptop station with a portrait depth monitor, finished in Deep Ocean. Its screen streams GOOGL (Alphabet) with one-minute candles printing in real time, worked by flip toggles and a spinning dial. It comes with an ink drop on top, a trophy at its side and a server box in the corner. Set on a Solid platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/179.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "GOOGL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Alphabet"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Candle Chart"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Deep Ocean"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Trophy"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

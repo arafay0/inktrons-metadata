@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0116",
+  "description": "Built for the opening bell. Inktrons #0116 is an Uncommon Rackline Halo, a server rack wired to a trading terminal, finished in Forest Gold. Its screen streams NVDA (NVIDIA) with a typing log of buy and sell orders, worked by two arcade bid/ask buttons that slam down. It comes with a flag on top, a coffee mug at its side and a floor plant in the corner. Set on a Fine Tiles platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/116.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Halo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Order Log"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Forest Gold"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Floor Plant"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0003",
+  "description": "Keeping the book honest. Inktrons #0003 is a Rare Quadwall Echo, a four-screen monitor wall with a trading console, finished in Sunset Drive. Its screens stream META (Meta Platforms) with a price line riding over live volume bars alongside candle chart, auction clock, depth bars, worked by two arcade bid/ask buttons that slam down. It comes with a siren on top and a coin stack at its side. Set on a Solid platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/3.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quadwall"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quadwall Echo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "4"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Arcade Buttons"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sunset Drive"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

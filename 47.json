@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0047",
+  "description": "Keeping the book honest. Inktrons #0047 is a Common Booktower Zenith, a tall order-book tower with a control console, finished in Lilac Mint. Its screen streams COIN (Coinbase) with a tall order ladder of stacked bids and asks, worked by a trading joystick. It comes with a radar on top, a coffee mug at its side and a paper bin in the corner. Set on a Fine Tiles platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/47.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Ladder"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Lilac Mint"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Paper Bin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

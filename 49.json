@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0049",
+  "description": "Booted on Ink and never logged off. Inktrons #0049 is a Common Teller Zenith, a teller booth with a receipt printer, finished in Lilac Mint. Its screen streams HOOD (Robinhood) with a price line riding over live volume bars, worked by a brass auction bell struck by a gavel. It comes with a satellite dish on top, a coffee mug at its side and a speaker tower in the corner. Set on a Glow Rim platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/49.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Lilac Mint"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Speaker Tower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

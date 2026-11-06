@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0079",
+  "description": "Keeping the book honest. Inktrons #0079 is an Uncommon Duplex Halo, a twin-monitor trading desk with a running LED strip, finished in Forest Gold. Its screens stream HOOD (Robinhood) with a price line riding over live volume bars alongside depth bars, worked by a brass auction bell struck by a gavel. It comes with a beacon on top, a desk lamp at its side and a vault safe in the corner. Set on a Metal Grate platform against a twinkling starfield. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/79.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Duplex Halo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "2"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Forest Gold"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Desk Lamp"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Starfield"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

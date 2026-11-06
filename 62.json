@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0062",
+  "description": "Running hot through every session. Inktrons #0062 is an Epic Pod Delta, a round trading pod with a ring of lights, finished in Toxic Ink. Its screen streams COIN (Coinbase) with a live bid/ask quote with a running price chart, worked by a rolling trackball. It comes with a siren on top, a coin stack at its side and a vault safe in the corner. Set on a Fine Tiles platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/62.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Delta"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Quote Feed"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Toxic Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coin Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

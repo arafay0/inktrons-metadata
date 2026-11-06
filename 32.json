@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0032",
+  "description": "Booted on Ink and never logged off. Inktrons #0032 is a Rare Tickertape Ember, a quote printer spinning out paper tape, finished in Neon Vault. Its screen streams COIN (Coinbase) with a readout flipping between bid and ask, worked by a hazard-striped big button. It comes with a beacon on top, an ink bottle at its side and a gold bars in the corner. Set on a Fine Tiles platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/32.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "COIN"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Coinbase"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Tickertape"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Tickertape Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Mini Flip"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Ink Bottle"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

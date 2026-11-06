@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0065",
+  "description": "Built for the opening bell. Inktrons #0065 is a Common Fieldbook Zenith, a laptop station with a portrait depth monitor, finished in Midnight. Its screen streams AAPL (Apple) with a flickering heatmap of order flow, worked by a rolling trackball. It comes with an ink drop on top, a mini safe at its side and a paper bin in the corner. Set on a Neon Edge platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/65.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "AAPL"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Fieldbook"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Fieldbook Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Trackball"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Mini Safe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Paper Bin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Neon Edge"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

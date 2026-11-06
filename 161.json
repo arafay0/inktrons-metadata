@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0161",
+  "description": "Running hot through every session. Inktrons #0161 is a Rare Quotron Ember, a classic quote desk with a typing keyboard, finished in Neon Vault. Its screen streams NVDA (NVIDIA) with a live bid/ask quote with a running price chart, worked by a slot-style pull lever. It comes with a desk lamp at its side and a gold bars in the corner. Set on a Solid platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/161.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "NVDA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "NVIDIA"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Ember"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Quote Feed"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Pull Lever"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "None"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Desk Lamp"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

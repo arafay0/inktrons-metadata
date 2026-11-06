@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0083",
+  "description": "Running hot through every session. Inktrons #0083 is a Common Duplex Zenith, a twin-monitor trading desk with a running LED strip, finished in Sandstone. Its screens stream SPY (the S&P 500 ETF) with a climbing auction bid racing a countdown to SOLD alongside line + volume, worked by a hazard-striped big button. It comes with a satellite dish on top, a cactus at its side and a vault safe in the corner. Set on a Checker platform against streams of drifting quotes. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/83.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "SPY"
+    },
+    {
+      "trait_type": "Company",
+      "value": "the S&P 500 ETF"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Duplex Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Auction Clock"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "2"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Satellite Dish"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Cactus"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Vault Safe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ticker Stream"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

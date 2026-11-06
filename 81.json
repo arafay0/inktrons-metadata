@@ -1,0 +1,68 @@
+{
+  "name": "Inktrons #0081",
+  "description": "Built for the opening bell. Inktrons #0081 is a Common Duplex Onyx, a twin-monitor trading desk with a running LED strip, finished in Classic Ink. Its screens stream MSTR (Strategy) with a flickering heatmap of order flow alongside order log, worked by a hazard-striped big button. It comes with a flag on top and a server box in the corner. Set on a Metal Grate platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/81.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "MSTR"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Strategy"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Duplex"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Duplex Onyx"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Screens",
+      "value": "2"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Accent Panel"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Big Red Button"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Classic Ink"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Server Box"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Metal Grate"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

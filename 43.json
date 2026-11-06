@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0043",
+  "description": "Booted on Ink and never logged off. Inktrons #0043 is a Rare Teller Flux, a teller booth with a receipt printer, finished in Neon Vault. Its screen streams TSLA (Tesla) with mirrored depth bars pulsing on both sides of the book, worked by a numeric keypad punching in orders. It comes with an ink drop on top and a gold bars in the corner. Set on a Checker platform against a soft ink glow. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/43.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "TSLA"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Teller"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Teller Flux"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Keypad"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Neon Vault"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Ink Drop"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "None"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plain Glow"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Checker"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

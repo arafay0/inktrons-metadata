@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0166",
+  "description": "Always on, always bidding. Inktrons #0166 is a Common Booktower Nova, a tall order-book tower with a control console, finished in Sandstone. Its screen streams MSTR (Strategy) with a flickering heatmap of order flow, worked by a brass auction bell struck by a gavel. It comes with a flag on top, a paper stack at its side and a gold bars in the corner. Set on a Solid platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/166.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "MSTR"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Strategy"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Booktower"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Booktower Nova"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Heatmap"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Flag"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Paper Stack"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Gold Bars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0180",
+  "description": "Built for the opening bell. Inktrons #0180 is a Rare Quotron Bravo, a classic quote desk with a typing keyboard, finished in Sunset Drive. Its screen streams MSTR (Strategy) with mirrored depth bars pulsing on both sides of the book, worked by sliding faders and a push button. It comes with a radar on top and a mini safe at its side. Set on a Fine Tiles platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/180.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "MSTR"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Strategy"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Quotron"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Quotron Bravo"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Fader Deck"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sunset Drive"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Mini Safe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

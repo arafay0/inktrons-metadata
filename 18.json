@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0018",
+  "description": "Running hot through every session. Inktrons #0018 is an Epic Rackline Rogue, a server rack wired to a trading terminal, finished in Vaporwave. Its screen streams MSTR (Strategy) with mirrored depth bars pulsing on both sides of the book, worked by a brass auction bell struck by a gavel. It comes with a beacon on top and a coffee mug at its side. Set on a Fine Tiles platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/18.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "MSTR"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Strategy"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Rackline"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Rackline Rogue"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Speaker Grille"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Vaporwave"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Beacon"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Coffee Mug"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Fine Tiles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

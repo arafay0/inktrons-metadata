@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0143",
+  "description": "Booted on Ink and never logged off. Inktrons #0143 is an Uncommon Pod Zenith, a round trading pod with a ring of lights, finished in Forest Gold. Its screen streams HOOD (Robinhood) with mirrored depth bars pulsing on both sides of the book, worked by a numeric keypad punching in orders. It comes with a siren on top, an hourglass at its side and a grandfather clock in the corner. Set on a Glow Rim platform against a soft ink glow. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/143.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Pod Zenith"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Depth Bars"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Rivets + LEDs"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Keypad"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Forest Gold"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Hourglass"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Grandfather Clock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plain Glow"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

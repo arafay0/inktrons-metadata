@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0130",
+  "description": "Built for the opening bell. Inktrons #0130 is an Uncommon Bigboard Volt, a giant exchange board with a bidding kiosk, finished in Berry Pop. Its screen streams META (Meta Platforms) with a price line riding over live volume bars, worked by a brass auction bell struck by a gavel. It comes with a radar on top, a potted plant at its side and a floor plant in the corner. Set on a Glow Rim platform against scrolling trading code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/130.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "META"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Meta Platforms"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Bigboard"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Bigboard Volt"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Line + Volume"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Auction Bell"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Berry Pop"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Potted Plant"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "Floor Plant"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Terminal Code"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}

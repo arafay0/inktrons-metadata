@@ -1,0 +1,64 @@
+{
+  "name": "Inktrons #0080",
+  "description": "Running hot through every session. Inktrons #0080 is a Common Tickertape Quartz, a quote printer spinning out paper tape, finished in Sandstone. Its screen streams HOOD (Robinhood) with a tiny sparkline of the session, worked by flip toggles and a spinning dial. It comes with a siren on top and a globe at its side. Set on a Glow Rim platform against falling hex code. ERC404 on Ink, one of 180.",
+  "image": "https://raw.githubusercontent.com/arafay0/inktrons-gifs/main/80.gif",
+  "attributes": [
+    {
+      "trait_type": "Stock",
+      "value": "HOOD"
+    },
+    {
+      "trait_type": "Company",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Machine Family",
+      "value": "Tickertape"
+    },
+    {
+      "trait_type": "Model",
+      "value": "Tickertape Quartz"
+    },
+    {
+      "trait_type": "Screen Program",
+      "value": "Mini Spark"
+    },
+    {
+      "trait_type": "Body Detail",
+      "value": "Vents"
+    },
+    {
+      "trait_type": "Controls",
+      "value": "Toggle Panel"
+    },
+    {
+      "trait_type": "Colorway",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Topper",
+      "value": "Siren"
+    },
+    {
+      "trait_type": "Desk Prop",
+      "value": "Globe"
+    },
+    {
+      "trait_type": "Side Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Code Rain"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Glow Rim"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "external_url": "https://www.inktrons.ink"
+}
